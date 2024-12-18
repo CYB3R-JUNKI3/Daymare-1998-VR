@@ -38,7 +38,7 @@ If what you are reading is attached to your Right Controller (documents/tuts/D.I
 Everything else (Such as "Y/N" PC's/Switches/puzzles etc..) then use the Left Stick.
 - No change to game controls
 - Left Thumb-Stick switches to D-Pad for menu's/Inventory
-- Optional <a href="https://github.com/mark-mon/uevr-index-controls/releases" target="_blank">plugin for Index Controllers</a> by Markmon
+- Optional <a href="https://github.com/mark-mon/uevr-index-controls/releases" target="_blank">OpenXR plugin for Index Controllers</a> by Markmon
 ----
 
 
