@@ -9,7 +9,7 @@ https://github.com/praydog/UEVR
 
 # Installation
 
-All installation info is <a href="" target="_blank">HERE in Releases section</a>.
+All installation info is <a href="https://github.com/CYB3R-JUNKI3/Daymare-1998-VR/releases" target="_blank">HERE in Releases section</a>.
 
 
 ----
