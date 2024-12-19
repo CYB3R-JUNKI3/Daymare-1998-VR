@@ -1,4 +1,4 @@
-# Daymare-1998-VR
+# Daymare 1998 VR
 6DOF Motion Controller UEVR Profile + 1st Person Mod + VR Fix Mod 
 
 ## Requires UEVR 1.05 (or Nightly)
