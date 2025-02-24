@@ -39,8 +39,18 @@ Everything else (Such as "Y/N" PC's/Switches/puzzles etc..) then use the Left St
 - No change to game controls
 - Left Thumb-Stick switches to D-Pad for menu's/Inventory
 - Optional <a href="https://github.com/mark-mon/uevr-index-controls/releases" target="_blank">OpenXR plugin for Index Controllers</a> by Markmon
+
+    (Below is for folks who don't want to click their Thumb-Sticks) 
+
+- Sprint mapped to Right Thumb-Stick ↑ 
 ----
 
+
+## Weapon Select Gesture
+1. Put your Right Hand over your Right Shoulder, as if to grab a weapon, to activate Weapon Select
+2. Once activated, you will see your HUD is attached to your head
+3. While activated use your Left Thumb-Stick to select a weapon 
+----
 
 
 ## Change Weapon / Use Torch
