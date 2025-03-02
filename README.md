@@ -6,7 +6,8 @@ https://github.com/praydog/UEVR
 
 ---
 **This mod uses <a href="https://github.com/UE4SS-RE/RE-UE4SS" target="_blank">UE4SS</a> and is included, setup ready.**
-
+> [!IMPORTANT]
+> This mod is currently be re-written to work without UE4SS, update coming soon!.
 ---
 
 # Installation
@@ -46,7 +47,7 @@ Everything else (Such as "Y/N" PC's/Switches/puzzles etc..) then use the Left St
 ----
 
 
-## Weapon Select Gesture
+## Weapon Select Gesture (Coming soon, Not implemented yet)
 1. Put your Right Hand over your Right Shoulder, as if to grab a weapon, to activate Weapon Select
 2. Once activated, you will see your HUD is attached to your head
 3. While activated use your Left Thumb-Stick to select a weapon 
