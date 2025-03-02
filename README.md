@@ -7,7 +7,7 @@ https://github.com/praydog/UEVR
 ---
 **This mod uses <a href="https://github.com/UE4SS-RE/RE-UE4SS" target="_blank">UE4SS</a> and is included, setup ready.**
 > [!IMPORTANT]
-> This mod is currently be re-written to work without UE4SS, update coming soon!.
+> This mod is currently be re-written to work without UE4SS, update coming soon!
 ---
 
 # Installation
