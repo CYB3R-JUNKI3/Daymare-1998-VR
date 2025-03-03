@@ -1,1 +1,12 @@
 r.CreateShadersOnLoad 1
+r.DepthOfFieldQuality 0
+r.DefaultFeature.LensFlare 0
+r.TemporalAACurrentFrameWeight 0.5
+r.TemporalAASamples 4
+r.TemporalAASharpness 0.5
+r.ReflectionMethod 2
+r.DepthOfFieldQuality 0
+r.Tonemapper.Sharpen 1.5
+r.Lumen.Reflections.Temporal 0
+r.Lumen.screenProbeGather.Temporal.MaxFramesAccumulated 32
+r.ShadowQuality 0

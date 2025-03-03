@@ -1,0 +1,21 @@
+{
+    "hide": false,
+    "hide_legacy": false,
+    "path": [
+        "Player Controller",
+        "Properties",
+        "AimGUI",
+        "Properties",
+        "GunImgs",
+        "Image Right",
+        "Properties",
+        "Brush"
+    ],
+    "properties": [
+        {
+            "data": 0,
+            "name": "DrawAs"
+        }
+    ],
+    "type": "properties"
+}

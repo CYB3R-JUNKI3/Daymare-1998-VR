@@ -1,0 +1,14 @@
+{
+    "hide": true,
+    "hide_legacy": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Components",
+        "SpotLightComponent TorchLight",
+        "Properties",
+        "AttachChildren",
+        "StaticMeshComponent godray_cone_02"
+    ],
+    "properties": [],
+    "type": "properties"
+}

@@ -1,0 +1,18 @@
+{
+    "hide": false,
+    "hide_legacy": false,
+    "path": [
+        "Acknowledged Pawn",
+        "Properties",
+        "DID",
+        "Properties",
+        "RelativeRotation"
+    ],
+    "properties": [
+        {
+            "data": 3256877056,
+            "name": "Roll"
+        }
+    ],
+    "type": "properties"
+}

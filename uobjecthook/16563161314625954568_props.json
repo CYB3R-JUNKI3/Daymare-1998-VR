@@ -1,0 +1,14 @@
+{
+    "hide": false,
+    "hide_legacy": false,
+    "path": [
+        "Player Controller"
+    ],
+    "properties": [
+        {
+            "data": 1120403456,
+            "name": "AimIncreaseRate"
+        }
+    ],
+    "type": "properties"
+}

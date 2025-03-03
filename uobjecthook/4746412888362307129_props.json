@@ -1,0 +1,21 @@
+{
+    "hide": false,
+    "hide_legacy": false,
+    "path": [
+        "Player Controller",
+        "Properties",
+        "AimGUI",
+        "Properties",
+        "Mp5Imgs",
+        "Image Leftmp5",
+        "Properties",
+        "Brush"
+    ],
+    "properties": [
+        {
+            "data": 0,
+            "name": "DrawAs"
+        }
+    ],
+    "type": "properties"
+}
