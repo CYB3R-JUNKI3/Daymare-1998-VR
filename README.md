@@ -48,11 +48,13 @@ All installation info is <a href="https://github.com/CYB3R-JUNKI3/Daymare-1998-V
 
 
 ## Controls
-_Rule of thumb_
-
-If what you are reading is attached to your Right Controller (documents/tuts/D.I.D etc..) then use the Right Stick to change page
-
-Everything else (Such as "Y/N" PC's/Switches/puzzles etc..) then use the Left Stick.
+> [!TIP]
+>_Rule of thumb_
+> 
+>If what you are reading is attached to your Right Controller (documents/tuts/D.I.D etc..) then use the Right Stick to change page
+>
+>Everything else (Such as "Y/N" PC's/Switches/puzzles etc..) then use the Left Stick.
+> 
 - No change to game controls
 - Left Thumb-Stick switches to D-Pad for menu's
 - Optional <a href="https://github.com/mark-mon/uevr-index-controls/releases" target="_blank">OpenXR plugin for Index Controllers</a> by Markmon
@@ -63,7 +65,7 @@ Everything else (Such as "Y/N" PC's/Switches/puzzles etc..) then use the Left St
 - Sprint mapped to Right Thumb-Stick ↑ (You MUST be jogging first to activate Sprint)
 - 180° Turn mapped to Right Thumb-Stick ↓
 
-    (Default Sprint and Turn 180 still work as intended) 
+    (Default Sprint (L3) and Turn 180 (R3) still work as intended) 
 ----
 
 
@@ -72,9 +74,10 @@ Everything else (Such as "Y/N" PC's/Switches/puzzles etc..) then use the Left St
 1. Lift your weapon above waist level
 2. Auto-aim will activate and allow you to shoot without pressing LT.
    
-Notes:
-- Auto-aim will cancle if you are near a pickup/interactable.
-- Normal aim (LT) can still be used at any time.
+> [!NOTE]
+> - Auto-aim will cancel if you are near a pickup/interactable.
+> - Normal aim (LT) can still be used at any time.
+> 
 ----
 
 
