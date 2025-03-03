@@ -5,9 +5,25 @@
 https://github.com/praydog/UEVR
 
 ---
-**This mod uses <a href="https://github.com/UE4SS-RE/RE-UE4SS" target="_blank">UE4SS</a> and is included, setup ready.**
-> [!IMPORTANT]
-> This mod is currently be re-written to work without UE4SS, update coming soon!
+
+
+# IMPORTANT
+## If you were using my old 6DOF profile you NEED to remove it first
+<details>
+
+<summary>How do I remove the old profile and mod? </summary>
+
+### How to Remove the Profile
+1)  Open UEVR app and click "Open Global Dir" 
+
+2)  An "Appdata" folder will open containing all of your UEVR Profiles 
+
+3)  Delete any folder named "Daymare_MASTER-Win64-Shipping" (includes any that may be called "Daymare_MASTER-Win64-Shipping(1)") 
+
+4)  Close the folder and Import the new Profile
+
+</details>
+
 ---
 
 # Installation
@@ -38,16 +54,32 @@ If what you are reading is attached to your Right Controller (documents/tuts/D.I
 
 Everything else (Such as "Y/N" PC's/Switches/puzzles etc..) then use the Left Stick.
 - No change to game controls
-- Left Thumb-Stick switches to D-Pad for menu's/Inventory
+- Left Thumb-Stick switches to D-Pad for menu's
 - Optional <a href="https://github.com/mark-mon/uevr-index-controls/releases" target="_blank">OpenXR plugin for Index Controllers</a> by Markmon
+- If walking, HOLD Right Thumb-Stick ↑ to Jog (Default Jog (Left-Grip) still works as intended)
 
     (Below is for folks who don't want to click their Thumb-Sticks) 
 
-- Sprint mapped to Right Thumb-Stick ↑ 
+- Sprint mapped to Right Thumb-Stick ↑ (You MUST be jogging first to activate Sprint)
+- 180° Turn mapped to Right Thumb-Stick ↓
+
+    (Default Sprint and Turn 180 still work as intended) 
 ----
 
 
-## Weapon Select Gesture (Coming soon, Not implemented yet)
+
+## Auto-Aim Gesture
+1. Lift your weapon above waist level
+2. Auto-aim will activate and allow you to shoot without pressing LT.
+   
+Notes:
+- Auto-aim will cancle if you are near a pickup/interactable.
+- Normal aim (LT) can still be used at any time.
+----
+
+
+
+## Weapon Select Gesture
 1. Put your Right Hand over your Right Shoulder, as if to grab a weapon, to activate Weapon Select
 2. Once activated, you will see your HUD is attached to your head
 3. While activated use your Left Thumb-Stick to select a weapon 
@@ -63,7 +95,6 @@ Everything else (Such as "Y/N" PC's/Switches/puzzles etc..) then use the Left St
 
 ## D.I.D Usage
 - You can navigate your D.I.D using your Right Stick
-- If you have the Map or Status open you can walk and turn normally
 - If you are listening to an Audio file you can walk and turn normally
 ----
 
@@ -90,6 +121,7 @@ Everything else (Such as "Y/N" PC's/Switches/puzzles etc..) then use the Left St
 ## Other Features
 - Fixed Weapons overlapping
 - Fixed ALL Weapon angles and positions
+- Removed all crosshairs 
 - All Mini-game nav bars better placed
 - All Cut-Scenes working
 - All Visual cuts/clues working
@@ -109,13 +141,21 @@ Everything else (Such as "Y/N" PC's/Switches/puzzles etc..) then use the Left St
 ----
 
 
-## Important Notes
-- Hand gun aiming is pretty accurate
-- Shotgun a bit off at close range 
-- Both Raven and Samuel "DownTown" levels, extremely poor performance and jitter badly in some places (game issue)
-- When Samuel is "Hallucinating" you will temporarily lose aiming ability, This Is Intentional, Not A Bug.
-- You may see your character silhouette when your D.I.D is open (this stops you falling through the map)
-- There is pretty bad "Pop-In" on Samuel's Lighthouse level, left as-is, felt fitting as he is hallucinating.
+## Important Notes / FAQ's
+:question: _Raven and Samuel "DownTown" levels, extremely poor performance and jitter badly in some places_
 
+:bulb: This is a game issue, sorry.
+
+---
+:question: _I can see my character silhouette when your D.I.D is open_
+
+:bulb: This stops you falling through the map, the silhouette will be invisible once you deactivate your D.I.D.
+
+---
+:question: _There is pretty bad "Pop-In" on Samuel's Lighthouse level_
+
+:bulb: I left this as-is, .. It felt quite fitting as he is hallucinating.
+
+---
 
 
