@@ -22,6 +22,11 @@ https://github.com/praydog/UEVR
 
 4)  Close the folder and Import the new Profile
 
+### How to Remove the Mod
+1)  Go to your "Daymare 1998\Daymare_MASTER\Content\Paks" folder
+
+2)  Delete "DMmod_P.pak"
+
 </details>
 
 ---
